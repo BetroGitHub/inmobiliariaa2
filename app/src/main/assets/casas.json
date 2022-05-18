@@ -1,0 +1,83 @@
+{
+  "casas": [
+    {
+      "title": "Chalet Deluxe",
+      "image" : "https://img.bekiahogar.com/articulos/portada/91000/91625-h3.jpg",
+      "url": "https://www.google.es/maps/place/Alpine+Deluxe+Chalet+Wallegg-Lodge+Saalbach%2FHinterglemm/@47.0867016,12.4299004,9z/data=!4m12!1m2!2m1!1schalet+deluxe!3m8!1s0x4777aadb7c4016f1:0x7bac4e857f7ad24b!5m2!4m1!1i2!8m2!3d47.385081!4d12.545257!15sCg1jaGFsZXQgZGVsdXhlkgEGY2hhbGV0?hl=es",
+      "description": "Esta propiedad consta de 4 dormitorios, 3 baños, 1 cocina, salón amplio y jardín trasero. 140 m²",
+      "price": "345.000€"
+    },
+
+    {
+      "title": "Mansion Playboy",
+      "image" : "https://i.blogs.es/df1710/mansion-playboy-1/1366_2000.jpg",
+      "url": "https://www.google.es/maps/place/Mansi%C3%B3n+Playboy/@34.0764808,-118.4317401,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2bc65c07ac239:0x9f66d4bfd54b427!8m2!3d34.0760841!4d-118.4295077?hl=es",
+      "description": "Esta propiedad consta de 22 habitaciones, una sala de juegos, un zoológico privado, canchas de tenis, lo normal vamos. Tiene 1952 m²",
+      "price": "17,5M€"
+    },
+
+    {
+      "title": "Casa de Frodo",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cul_de_Sac.jpg",
+      "url": "https://www.google.es/maps/place/501+Buckland+Road,+Matamata+3472,+Nueva+Zelanda/@-37.872124,175.6807647,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6dab623bede899:0xdd56089c655889a2!8m2!3d-37.872124!4d175.6829534?hl=es",
+      "description": "Este tipo de vivienda va dirigida a gente enana, asi que si eres muy alto no te interesa. Casa de Frodo identica a la de la pelicula, con buenas vistas hacia la madre naturaleza y si te animas puedes intentar ir a mordor. Tiene 1 habitacion amplia, 1 baño y cocina. 50 m² ",
+      "price": "500.000€"
+    },
+
+    {
+      "title": "Pisito Normal",
+      "image" : "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/06/16/15923167190436.jpg",
+      "url": "https://www.google.es/maps/place/Promora+Madrid/@40.3863248,-3.7686791,13z/data=!4m9!1m2!2m1!1scasas+madrid!3m5!1s0xd422894420324dd:0x8189c194ea197de4!8m2!3d40.4302272!4d-3.6863704!15sCgxjYXNhcyBtYWRyaWRaDiIMY2FzYXMgbWFkcmlkkgEScmVhbF9lc3RhdGVfYWdlbmN5mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJUYURsRFREWkJSUkFC?hl=es",
+      "description": "Esta propiedad consta de 2 dormitorios, 1 baño, 1 cocina y un salon pequeño. 64m²",
+      "price": "60.000€"
+    },
+
+    {
+      "title": "Casa en la sierra 1",
+      "image" : "https://metrocuadrado.blob.core.windows.net/inmuebles/10967-M2506897/10967-M2506897_37_p.jpg",
+      "url": "https://www.google.es/maps/place/Casas+en+la+Sierra/@40.7097703,-4.1826855,17z/data=!3m1!4b1!4m5!3m4!1s0xd410e3ae4d2ca25:0xc3207a60474b8dc!8m2!3d40.709766!4d-4.180506?hl=es",
+      "description": "Esta propiedad consta de 3 dormitorios, 2 baños, 1 cocina y un salon. Tiene dos pisos. 92m²",
+      "price": "140.000€"
+    },
+
+    {
+      "title": "Casa en la sierra 2",
+      "image" : "https://previews.123rf.com/images/james63/james631402/james63140200169/25870723-casa-t%C3%ADpica-de-la-sierra-de-madrid-espa%C3%B1a.jpg",
+      "url": "https://www.google.es/maps/place/C.+del+Avellano,+6,+40424+El+Espinar,+Segovia/@40.71019,-4.1829387,17z/data=!3m1!4b1!4m5!3m4!1s0xd410e3ac08a7265:0x4337d6ec4a6b49b3!8m2!3d40.71019!4d-4.18075?hl=es",
+      "description": "Esta propiedad consta de 3 dormitorios, 2 baños, 1 cocina y salon. Tiene dos pisos. 73m²",
+      "price": "100.000€"
+    },
+
+    {
+      "title": "Pisito para ricos",
+      "image" : "https://abalea.es/wp-content/uploads/2019/02/IMG_20180422_132210_698.jpg",
+      "url":"https://www.google.es/maps/place/Francisco+de+Ricci+13/@40.4310544,-3.7828889,12z/data=!4m9!1m2!2m1!1spiso+para+ricos!3m5!1s0xd422976fadb83f1:0xe50f966b610cd69f!8m2!3d40.4311292!4d-3.7128407!15sCg9waXNvIHBhcmEgcmljb3NaESIPcGlzbyBwYXJhIHJpY29zkgEVcmVhbF9lc3RhdGVfZGV2ZWxvcGVy?hl=es",
+      "description": "Esta propiedad consta de 4 dormitorios, 3 baños (dos de ellos integrados), 1 cocina y salon grande. 82.5m²",
+      "price": "180.000€"
+    },
+
+    {
+      "title": "Casa interesante ",
+      "image" : "https://1.bp.blogspot.com/-Yj7ARMy0h5A/Vtm_To79UGI/AAAAAAAAAgw/5R_MHBlYzJU/s1600/casarara1.jpg",
+      "url": "https://www.google.es/maps/place/Casa+de+M%C3%A9xico+en+Espa%C3%B1a/@40.4301007,-3.7114928,17z/data=!3m1!4b1!4m5!3m4!1s0xd422866e7418c6b:0x102485de7195b064!8m2!3d40.4300852!4d-3.709361?hl=es",
+      "description": "Esta propiedad consta de 2 dormitorios, 1 baños, 1 cocina y un salon bastante amplio, se puede usar como una habitacion mas. 68m²",
+      "price": "141.000€"
+    },
+
+    {
+      "title": "Casa de cartón",
+      "image" : "https://img.freepik.com/foto-gratis/paquete-fragil-roto-caja-carton-rota-escritorio-oficina_181654-3124.jpg?size=626&ext=jpg",
+      "url": "https://www.google.es/maps/place/Tienda+de+Cajas/@40.4618971,-3.4590625,43m/data=!3m1!1e3!4m9!1m2!2m1!1scasa+de+carton!3m5!1s0xd4237af48e3b6a9:0xdf20caa71c8b45f4!8m2!3d40.4521051!4d-3.4543059!15sCg5jYXNhIGRlIGNhcnRvbpIBEXBhY2thZ2luZ19jb21wYW55?hl=es",
+      "description": "Propiedad individual perfecta para un estilo de vida nomada. Esta propiedad consta con tres dormitorios y cuarto de baño,se admiten mascotas.De 1 a 2m²",
+      "price": "2€"
+    },
+    {
+      "title": "Casa de Shrek",
+      "image" : "https://tn8.tv/wp-content/uploads/2021/07/casa.jpg",
+      "url": "https://www.google.es/maps/search/casa+de+Shrek+Circle,+Shrek+Circle,+Distrito+de+Toul,+Francia/@48.6876591,5.8846033,1194m/data=!3m2!1e3!4b1?hl=es",
+      "description": "Cienaga al aire libre con un amplio jardin para tener secuestradas a princesas. Perfecta para invitar a beber a tu amigo el asno que trae el peyote a la fiesta. 124 m²",
+      "price": "956.000.000€"
+    }
+
+  ]
+}

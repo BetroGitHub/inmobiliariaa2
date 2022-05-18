@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/mainapp2"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#a8000000"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="395dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/amarante"
+        android:text="Seamos Amigos"
+        android:textColor="#fff"
+        android:textSize="28sp"
+        app:layout_constraintBottom_toTopOf="@+id/tv2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="45dp"
+        android:layout_marginBottom="5dp"
+        android:fontFamily="@font/amarante"
+        android:text="Registro e inicio de sesion"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="@+id/tv1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv1" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="85dp"
+        android:layout_marginRight="85dp"
+        android:layout_marginStart="75dp"
+        android:padding="10dp"
+        android:layout_marginBottom="45dp"
+        app:layout_constraintBottom_toTopOf="@+id/etv1"
+        app:layout_constraintEnd_toEndOf="@+id/etv1"
+        app:layout_constraintStart_toStartOf="@+id/tv2"
+        app:layout_constraintTop_toBottomOf="@+id/tv2"
+        app:srcCompat="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/etv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="85dp"
+        android:layout_marginRight="85dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/borde_redondo1"
+        android:fontFamily="@font/amarante"
+        android:hint="Introduzca su email"
+        android:inputType="textEmailAddress"
+        android:minHeight="48dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#039BE5"
+        android:textColorHint="#fff"
+        android:textColorLink="#039BE5"
+        app:layout_constraintBottom_toTopOf="@+id/etv2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <EditText
+        android:id="@+id/etv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="85dp"
+        android:layout_marginRight="85dp"
+        android:layout_marginBottom="35dp"
+        android:background="@drawable/borde_redondo1"
+        android:fontFamily="@font/amarante"
+        android:hint="Introduzca su password"
+        android:inputType="textPassword"
+        android:minHeight="48dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#039BE5"
+        android:textColorHint="#fff"
+        android:textColorLink="#039BE5"
+        app:layout_constraintBottom_toTopOf="@+id/buttonCrearCuenta"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etv1" />
+
+    <Button
+        android:id="@+id/buttonCrearCuenta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="155dp"
+        android:layout_marginRight="155dp"
+        android:layout_marginBottom="150dp"
+        android:background="@drawable/borde2"
+        android:fontFamily="@font/amarante"
+        android:text="Entrar"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etv2"
+        tools:ignore="TouchTargetSizeCheck" />
+</android.support.constraint.ConstraintLayout>
